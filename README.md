@@ -25,7 +25,23 @@ az webapp up -n udacity-gomezlivan  -g MyRG -l francecentral --sku F1 --runtime 
 ![image](https://user-images.githubusercontent.com/3152635/224437632-544ccb51-fe28-40c5-90a8-d350811aec25.png)
 
 * Project cloned into Azure Cloud Shell
-
+```
+(.myrepo) gomezl_ivan [ ~/azure-udacity-lab ]$ cat .git/config 
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[remote "origin"]
+        url = git@github.com:ivi333/azure-udacity-lab.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+        remote = origin
+        merge = refs/heads/main
+[pull]
+        rebase = true
+(.myrepo) gomezl_ivan [ ~/azure-udacity-lab ]$ 
+```
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
