@@ -17,6 +17,7 @@
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 
 * Project running on Azure App Service
+![image](https://user-images.githubusercontent.com/3152635/224437632-544ccb51-fe28-40c5-90a8-d350811aec25.png)
 
 * Project cloned into Azure Cloud Shell
 
