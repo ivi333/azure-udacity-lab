@@ -25,7 +25,7 @@ az webapp up -n udacity-gomezlivan  -g MyRG -l francecentral --sku F1 --runtime 
 ![image](https://user-images.githubusercontent.com/3152635/224437632-544ccb51-fe28-40c5-90a8-d350811aec25.png)
 
 * Project cloned into Azure Cloud Shell
-![image](https://user-images.githubusercontent.com/3152635/224442500-3ed04c47-152f-4634-aa4a-afd74460092f.png)
+
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
 
