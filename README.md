@@ -5,3 +5,6 @@
 
 ## Passing test after running `make all`
 ![image](https://user-images.githubusercontent.com/3152635/224431396-b7fda360-8737-4f2a-8cfe-97e4d83d9b31.png)
+
+## GitHub Actions Passing Tests
+![image](https://user-images.githubusercontent.com/3152635/224432113-a350b843-ffb0-4f15-8b66-605588cda774.png)
