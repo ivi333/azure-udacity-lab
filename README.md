@@ -44,6 +44,7 @@ Port: 443
 ```
 
 * Output of streamed log files from deployed application
+![image](https://user-images.githubusercontent.com/3152635/224441869-87d04e23-55b4-4ecb-b472-a431177dba66.png)
 
 > 
 
