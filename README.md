@@ -1,6 +1,7 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+![image](https://user-images.githubusercontent.com/3152635/224437421-57377ae1-bb39-4d14-922e-27364ebe4432.png)
+
 
 ## Project Plan
 <TODO: Project Plan
