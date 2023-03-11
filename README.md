@@ -44,8 +44,10 @@ az webapp up -n udacity-gomezlivan  -g MyRG -l francecentral --sku F1 --runtime 
 ```
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+The applications doesn't include tests, so all tests are passed
 
 * Output of a test run
+No tests found in the application
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
